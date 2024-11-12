@@ -1,13 +1,7 @@
 pip==24.3.1
-
 setuptools
-
 wheel
-
 numpy
-
 joblib==1.2.0
-
 streamlit
-
 scikit-learn
